@@ -14,9 +14,9 @@ problem of get the length of the string of chars.
 
 #### Filtering:
 
-* Modify the global counter variable adding 1 only when the char is in "ATCG" and deleting the first line with the description of the sequence.
+* Process without thinking about what char is wrong to get all the file as a string.
 
-* Do the same, but creating a dinamic var. with the real size of the string.
+* Save all valid chars to a dinamic buffer and then return it.
 
 ### KMER:
 

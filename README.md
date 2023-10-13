@@ -1,4 +1,4 @@
-# Easy Fasta Processing with OpenMP
+# Easy Fasta Processing
 
 This is a prototype with the potential for future optimization.
 

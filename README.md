@@ -6,7 +6,7 @@ The latest version is in FastaP3.
 
 This code was shamefully written by NicolasAraya932.
 
-## Steps
+## Codes
 
 file_p.c: This code is responsible for processing the data from a .fasta file extension. It parses and extracts relevant information from the input file.
 
